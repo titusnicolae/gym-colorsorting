@@ -1,0 +1,1 @@
+from gym_colorsorting.envs.colorsorting_env import ColorSortingEnv
